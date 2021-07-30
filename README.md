@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kulkarnisoham833
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and C++ 
-- 💞️ I’m looking to collaborate on nothing much
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me kulkarnisoham833@gmail.com
 
 <!---
